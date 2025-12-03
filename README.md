@@ -1,0 +1,2 @@
+# Cloudfare-SpeesTest-Preferred-IP-format-conversion
+Cloudfare SpeesTest优选出来的IP快速转换成CFnew上传API的自动脚本
